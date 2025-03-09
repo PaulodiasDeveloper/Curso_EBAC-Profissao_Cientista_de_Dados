@@ -1,0 +1,9 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+ydata-profiling==4.5.1
+setuptools>=65.5.0
+wheel
