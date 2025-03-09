@@ -36,21 +36,21 @@ Neste repositório, você encontrará:
 ## Estrutura do Repositório
 
 /
-├── datasets/                  # Conjuntos de dados utilizados nos estudos
-├── notebooks/                 # Notebooks Jupyter com tutoriais e exemplos
-│   ├── introducao/            # Notebooks introdutórios
-│   ├── machine_learning/      # Notebooks sobre machine learning
-│   ├── deep_learning/         # Notebooks sobre deep learning
-│   └── analise_de_dados/      # Notebooks sobre análise de dados
-├── projetos/                  # Projetos completos
-│   ├── projeto1/              # Descrição do projeto 1
-│   ├── projeto2/              # Descrição do projeto 2
-│   └── ...                    # Outros projetos
-├── recursos/                  # Recursos adicionais
-│   ├── livros.md              # Lista de livros recomendados
-│   ├── artigos.md             # Lista de artigos recomendados
-│   └── links_uteis.md         # Links úteis
-└── README.md                  # Este arquivo
+├── datasets/                  
+├── notebooks/                 
+│   ├── introducao/           
+│   ├── machine_learning/      
+│   ├── deep_learning/         
+│   └── analise_de_dados/   
+├── projetos/                 
+│   ├── projeto1/              
+│   ├── projeto2/              
+│   └── ...                    
+├── recursos/                  
+│   ├── livros.md              
+│   ├── artigos.md             
+│   └── links_uteis.md         
+└── README.md                  
 
 <details open>
   <summary>
