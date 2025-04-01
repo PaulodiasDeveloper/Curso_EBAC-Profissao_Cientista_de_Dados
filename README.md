@@ -65,7 +65,21 @@ Neste repositório, você encontrará:
   [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://previsaorenda-mamaurgdbsndneosj7kxko.streamlit.app/)
   [![Projeto 02](https://img.shields.io/badge/Projeto%2002-4CAF50?logo=book&logoColor=white)](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Cientista%20de%20Dados/M%C3%B3d.%2016%20Desenvolvimento%20Modelos%20com%20Pandas%20e%20Python/Material%20de%20apoio%20-%202%C2%BA%20projeto)
 
+  
+</details>
 
+<details open>
+  <summary>
+      <h2>Projeto com Streamlit</h2>
+  </summary>
+
+- [x] [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score)
+  > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)]()
+
+<video width="600" controls>
+  <source src="https://github.com/user-attachments/assets/39eeaf5c-54a5-4700-8cd1-2506876c94f0" type="video/mp4">
+  Seu navegador não suporta o vídeo.
+</video>
 
 </details>
 
