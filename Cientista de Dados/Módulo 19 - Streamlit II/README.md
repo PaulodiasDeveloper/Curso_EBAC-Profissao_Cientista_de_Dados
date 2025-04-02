@@ -77,12 +77,10 @@ Seu arquivo de dados deve conter estas colunas:
 | y            | texto     | Aceitou a oferta? (target)         |
 
 
-🎞️ Pequeno vídeo do projeto
+🎞️ Vídeo do projeto final
 
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/24b5d6b2-4b9b-42c6-8a33-132acb5deb56" type="video/webm">
-  Seu navegador não suporta o vídeo.
-</video>
+
+https://github.com/user-attachments/assets/cda0974b-13d9-4889-93c9-661673772e83
 
 
 📄 Licença
