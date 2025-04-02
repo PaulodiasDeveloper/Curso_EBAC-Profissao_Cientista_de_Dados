@@ -80,7 +80,7 @@ Seu arquivo de dados deve conter estas colunas:
 🎞️ Pequeno vídeo do projeto
 
 <video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/39eeaf5c-54a5-4700-8cd1-2506876c94f0" type="video/mp4">
+  <source src="https://github.com/user-attachments/assets/24b5d6b2-4b9b-42c6-8a33-132acb5deb56" type="video/webm">
   Seu navegador não suporta o vídeo.
 </video>
 
