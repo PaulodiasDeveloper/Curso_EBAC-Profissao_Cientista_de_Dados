@@ -57,10 +57,10 @@ Neste repositório, você encontrará:
     <h2>Projetos</h2>
   </summary>
 
-- [x] [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score)
+- [x] [**Projeto #01** | Credit-score](link do projeto aqui tbm)
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)]()
 
-- [x] [**Projeto #02** | Previsão de renda](https://github.com/rhatiro/previsao-renda)
+- [x] [**Projeto #02** | Previsão de renda](link do projeto aqui tbm)
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados/blob/main/Cientista%20de%20Dados/M%C3%B3d.%2016%20Desenvolvimento%20Modelos%20com%20Pandas%20e%20Python/Material%20de%20apoio%20-%202%C2%BA%20projeto/projeto02.ipynb)
   [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white)](https://previsaorenda-mamaurgdbsndneosj7kxko.streamlit.app/)
   [![Projeto 02](https://img.shields.io/badge/Projeto%2002-4CAF50?logo=book&logoColor=white)](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Cientista%20de%20Dados/M%C3%B3d.%2016%20Desenvolvimento%20Modelos%20com%20Pandas%20e%20Python/Material%20de%20apoio%20-%202%C2%BA%20projeto)
@@ -73,7 +73,8 @@ Neste repositório, você encontrará:
       <h2>Projeto com Streamlit</h2>
   </summary>
 
-- [x] [**Projeto #01** | Credit-score](https://github.com/rhatiro/Credit-score)
+
+- [x] [**Projeto #01** | Streamlit II](link do projeto aqui tbm)
   > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)]()
 
 <video width="600" controls>
