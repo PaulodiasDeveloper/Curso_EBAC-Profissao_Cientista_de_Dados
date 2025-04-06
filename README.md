@@ -77,10 +77,15 @@ Neste repositório, você encontrará:
 - [x] [**Projeto #01** | Streamlit II](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados/tree/main/Cientista%20de%20Dados/M%C3%B3dulo%2019%20-%20Streamlit%20II)
 > [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&logo=Jupyter&logoColor=white)](https://github.com/PaulodiasDeveloper/Curso_EBAC-Profissao_Cientista_de_Dados/blob/main/Cientista%20de%20Dados/M%C3%B3dulo%2019%20-%20Streamlit%20II/py/app_7.py)
 
-<video width="600" controls>
-  <source src="https://github.com/user-attachments/assets/39eeaf5c-54a5-4700-8cd1-2506876c94f0" type="video/mp4">
-  Seu navegador não suporta o vídeo.
-</video>
+🎞️ Vídeo do projeto final
+
+
+https://github.com/user-attachments/assets/cda0974b-13d9-4889-93c9-661673772e83
+
+
+🎞️ Vídeo do exerício 02
+
+https://github.com/user-attachments/assets/385c57ac-aee9-4ded-be66-cd6398b050cc
 
 </details>
 
