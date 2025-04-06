@@ -83,6 +83,11 @@ Seu arquivo de dados deve conter estas colunas:
 https://github.com/user-attachments/assets/cda0974b-13d9-4889-93c9-661673772e83
 
 
+🎞️ Vídeo do exerício 02
+
+https://github.com/user-attachments/assets/385c57ac-aee9-4ded-be66-cd6398b050cc
+
+
 📄 Licença
 MIT License - LICENSE
 
